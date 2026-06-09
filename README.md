@@ -73,6 +73,7 @@
 
 ## Results
 <img width="437" height="248" alt="Screenshot 2026-06-09 123151" src="https://github.com/user-attachments/assets/b0676e9c-0d59-46c2-bcce-a069dca0315c" />
+    
     Ensemble model achieved the best balance across all classes
     
     Improved performance on minority lesion categories
